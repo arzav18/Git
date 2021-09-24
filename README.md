@@ -9,7 +9,7 @@ Today marks my first day using Git. I learned how to use Git and it's various co
 4) mkdir : Used to create a new folder inside the directory. 
 5) touch : Used to add new files inside the folder in a directory.    Syntax: touch file_name.file_format
 6) start : Used to open the selected file.    Syntax: start file_name.file_format
-7) rm : Used to delete a selected file.   Syntax:  rm file_name.rtf
+7) rm : Used to delete a selected file.   Syntax:  rm file_name.file_format
 8) rm* : Used to delete everthing inside the selected Directory.   
 9) rm -r : Removes/deletes a directory.
 10) rm -rf --no-preserve-root/ : Wipes out the entire hard disk ( A very dangerous command ). 
